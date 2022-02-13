@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Alireza Jahandoost</h1>
 <h3 align="center">A Laravel and React developer</h3>
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m currently working on **a weather SPA with react**
 
 - 🌱 I’m currently learning **Typescript**
 
-- 💡 I'm the owner of **[ExamsGalaxy](https://examsgalaxy.com)**
+- 💡 I'm the founder of **[ExamsGalaxy](https://examsgalaxy.com)**
 
 - 💬 Ask me about **Laravel and React**
 
