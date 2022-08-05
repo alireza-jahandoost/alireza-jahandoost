@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **something about javascript**
 
-- 💡 I'm the founder of **[ExamsGalaxy](https://examsgalaxy.com)**
-
 - 💬 Ask me about **Laravel and React**
 
 - 📫 How to reach me **alireza.jhd2000@gmail.com**
